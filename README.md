@@ -5,12 +5,10 @@ Learn how to build **Mobile App** (**Android**, **iOS**) with **3-tier Architect
 
 ## Technologies
 **MongoDB** (**mLab** for "online" version or another choice: **firebase**), **Angular 2**. We have:
-
-- [ ] [**Quiz with MongoDB**](https://github.com/DinhLeGaulois/quiz_clientServer_MongoDB): **CSS**, **jQuery**, **Express/NodeJS**, **MongoDB**
-- [ ] [**Quiz with PHP**](https://github.com/DinhLeGaulois/quiz_PHP): **CSS**, **jQuery**, **BootStrap**, **PHP**, **MongoDB**
-- [ ] [**Quiz with M.E.R.N. Stack**](https://github.com/DinhLeGaulois/quiz_clientServer_MongoDB_React): **CSS**, **jQuery**, **Express/NodeJS**, **MongoDB**, **React**
-- [ ] [**Quiz with M.E.A.N. Stack**](https://github.com/DinhLeGaulois/quiz_clientServer_MongoDB_Angular): **CSS**, **jQuery**, **Express/NodeJS**, **MongoDB**, **Angular** (version 2)
-- [x] [**Quiz with Mobile App**](https://github.com/DinhLeGaulois/quiz_MobileApp): **Ionic 2**, **Angular** (version 2)
+- [ ] [**Quiz with PHP**](https://github.com/DinhLeGaulois2/mongodb_php_quiz): **CSS**, **jQuery**, **BootStrap**, **PHP**, **MongoDB**
+- [ ] [**Quiz with M.E.R.N. Stack**](https://github.com/DinhLeGaulois2/mongodb_mern_stack_quiz): **CSS**, **jQuery**, **Express/NodeJS**, **MongoDB**, **React**
+- [ ] [**Quiz with M.E.A.N. Stack**](https://github.com/DinhLeGaulois2/mongodb_mean_stack_quiz): **CSS**, **jQuery**, **Express/NodeJS**, **MongoDB**, **Angular** (version 2)
+- [x] [**Quiz with Mobile App**](https://github.com/DinhLeGaulois2/mongodb_ionic2_quiz): **Ionic 2**, **Angular** (version 2)
 
 
 ## Problem (solution)
